@@ -1,0 +1,13 @@
+import { SignIn } from '@clerk/clerk-react'
+import React from 'react'
+
+const Sign_in = () => {
+  return (
+    <div className='flex justify-center items-center h-screen' >
+      <SignIn/>
+      
+    </div>
+  )
+}
+
+export default Sign_in
