@@ -1,5 +1,5 @@
 import FormSection from "@/components/custom/FormSection";
-import PreviewSection from "@/components/custom/previewSection";
+import PreviewSection from "@/components/custom/PreviewSection";
 import { ResumeInfoContext } from "@/context/ResumeInfoContext";
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
